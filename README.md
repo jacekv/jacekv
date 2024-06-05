@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacekv&label=Profile%20views&color=0e75b6&style=flat" alt="jacekv" /> </p>
 
 - 🔭 I’m currently working on [Decentralized Git3 version](https://github.com/varkiwi)
+- Also a small [blog](https://blog.varkiwi.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
